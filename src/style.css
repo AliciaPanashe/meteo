@@ -81,7 +81,26 @@ main {
   border-radius: 6px;
   color: white;
   margin-left: 5px;
-  padding: 15px 30px;
+  padding: 15px 20px;
+}
+
+.weather-forecast {
+  margin-top: 16px;
+  text-align: center;
+  color: black;
+}
+
+.weather-forecast-date {
+  font-size: 16px;
+  opacity: 0.6;
+}
+
+.weather-forecast-temperature {
+  font-size: 13px;
+}
+
+.weather-forecast-temperature-min {
+  opacity: 0.6;
 }
 
 footer {
